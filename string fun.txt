@@ -1,0 +1,2 @@
+word = input("Pick a word)
+for char in text 
