@@ -1,0 +1,9 @@
+name = input("please enter your name: ")
+age = int(input("please enter your age: "))
+height = float(input("please enter your height in meters: "))
+future_age = age + 5
+print(f"Hello {name}, you are {age} years old and your height is {height} meters. \nin 5 years i will be {future_age}")
+width = float(input("enter width: "))
+length = float(input("enter length: "))
+results = width * length
+print(f"The area of the rectangle is {results}")
